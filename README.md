@@ -1,3 +1,8 @@
+Deprecation notice
+----------------
+
+This repository is not maintained.
+
 REDMINE BACKLOGS
 ----------------
 
